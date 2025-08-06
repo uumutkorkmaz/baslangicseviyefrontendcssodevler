@@ -1,0 +1,32 @@
+
+header{
+    color: red;
+    text-align: center;
+}
+
+nav{
+    color: blue;
+    text-align: center;
+
+
+}
+
+.navis{
+    margin: 25px;
+}
+
+.sari{
+    color: rgb(102, 102, 2);
+}
+
+section{
+    text-align: center;
+}
+
+.mor{
+    color: blueviolet;
+}
+
+.liste{
+    list-style-position: inside;
+}
