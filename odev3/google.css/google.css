@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+}
+
+.top-left{
+    float: left;
+    word-spacing: 10px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.top-right{
+    margin: auto auto auto 1170px;
+    word-spacing: 15px;
+    float: left;
+}
+
+.sign-in{
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+    background: linear-gradient(top,#4387fd,#4683ea);
+    color: white;
+    font-size: 16px;           
+    padding: 6px 12px; 
+}
+
+span{
+    word-spacing: normal;
+}
+
+section{
+    text-align: center;
+    margin-top: 500px;
+}
+
+.marginamk{
+    margin-top: 100px;
+}
+
+.search-box{
+    background-color: white;
+    width: 580px;
+    height: 45px; 
+    border: 1px solid rgb(197, 193, 193);
+    text-align: center;
+    margin: 30px auto auto;
+    border-radius: 30px;
+}
+
+.buyutec{
+    margin: 15px 495px 17px auto;
+    width: 16px;
+}
+
+.voice{
+    width: 25px;
+    margin: 0 0 13px 5px;
+}
+
+.btns{
+    margin: 30px 0 0 625px;
+}
+
+.btn-1{
+    float: left;
+    background-color: rgb(242, 240, 240);
+    width: 100px;
+    height: 26px;
+    margin-right: 10px;
+    padding: 7px 10px;
+    border-radius: 4px;
+}
+
+.btn-2{
+    float: left;
+    background-color:rgb(242, 240, 240);
+    width: 120px;
+    height: 26px;
+    padding: 7px 10px;
+    border-radius: 4px;
+}
+
+.clear-fix{
+    clear: both;
+}
+
+footer{
+    background-color: rgb(242, 240, 240);
+    margin-top: 362px;
+    height: 45px;
+
+}
+
+.bottom-left{
+    width: 350px;
+    float: left;
+    word-spacing: 15px;
+    height: 45px;
+    text-align: center;
+
+}
+
+.bottom-right{
+    margin: auto auto auto 920px;
+    word-spacing: 15px;
+    width: 200px;
+    float: left;
+    word-spacing: 15px;
+    height: 45px;
+    padding: 10px 5px;
+}
+
